@@ -133,8 +133,6 @@ table {
 }
 /* ******************************************* */
 
-/* 114. Price Panel Code-Along Pt. 2 */
-
 html {
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
@@ -160,7 +158,6 @@ body {
   text-transform: uppercase;
 }
 
-/* 115. Price Panel Code-Along Pt. 3 */
 .pricing-plan {
   border-bottom: 1px solid #e1f1ff;
 }
@@ -173,8 +170,6 @@ body {
   margin-bottom: 25px;
   max-width: 100%;
 }
-
-/* 116. Price Panel Code-Along Pt. 4 */
 
 .pricing-header {
   color: #888;
